@@ -27,7 +27,7 @@ To setup the project:
         - **ratestask_api**
         - **ratestask_db**
 
-- Go to http://localhost:8000/swagger, for trying out the API. Along with the response, the api also provides a **max_count** header that can be used by the client to show the pages.
+- Go to http://localhost:8000/swagger, for trying out the API. Along with the response, the api also provides a **max_count** header, the total count of all the prices, for the given filters, that can be used by the client to show the page list.
 
 
 ### APIS
