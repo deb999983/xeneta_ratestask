@@ -65,3 +65,10 @@ RESPONSE:
 ### TestCases:
 Sorry :( couldn't add testcases due to less time.
 
+
+### Screenshots:
+
+<img width="1422" alt="Screenshot 2022-11-28 at 20 58 48" src="https://user-images.githubusercontent.com/9046803/204369450-49db8ac2-e832-4e72-bb9d-d1ea665a0dd9.png">
+<img width="1423" alt="Screenshot 2022-11-28 at 20 59 06" src="https://user-images.githubusercontent.com/9046803/204369479-5a483452-ae85-4b81-a928-f8b48fde09a2.png">
+
+
