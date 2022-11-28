@@ -12,7 +12,7 @@
 	"initializeCommand": "./scripts/start_db.sh",
 
 	"runArgs": [
-		"--network=xeneta_default",
+		"--network=xeneta_ratestask_default",
 		"--env-file=.env"
 	]
 
