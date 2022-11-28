@@ -1,0 +1,10 @@
+gunicorn
+Django
+django-rest-framework
+django-cors-headers
+markdown
+drf-spectacular
+configparser
+psycopg2
+requests
+bs4
