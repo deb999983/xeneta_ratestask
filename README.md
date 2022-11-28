@@ -62,4 +62,6 @@ RESPONSE:
 `max_count`: Total count of all the prices, for the given filters.
 
 
+### TestCases:
+Sorry :( couldn't add testcases due to less time.
 
