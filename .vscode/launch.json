@@ -40,6 +40,27 @@
             ],
             "django": true,
             "justMyCode": false
-        },        
+        },
+        {
+            "name": "test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/manage.py",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}",
+                "DJANGO_SETTINGS_MODULE": "api.settings",
+                "MY_DB_USER": "postgres",
+                "MY_DB_PASSWORD": "ratestask",
+                "MY_DB_HOST": "ratestask_db",
+                "MY_DB_PORT": "5432",
+                "MY_DB_NAME": "postgres"
+            }, 
+            "args": [
+                "test",
+                "--keepdb"
+            ],
+            "django": true,
+            "justMyCode": false
+        },                 
     ]
 }

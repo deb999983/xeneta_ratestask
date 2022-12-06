@@ -100,7 +100,10 @@ DATABASES = {
 		'PORT': os.environ.get('MY_DB_PORT', '5432'),
 		'NAME': os.environ.get('MY_DB_NAME', 'postgres', ),
 		'USER': os.environ.get('MY_DB_USER', 'postgres'),
-		'PASSWORD': os.environ.get('MY_DB_PASSWORD', 'ratestask')
+		'PASSWORD': os.environ.get('MY_DB_PASSWORD', 'ratestask'),
+		'TEST': {
+			'NAME': 'ratetask_test_db'
+		}
 	}
 }
 
